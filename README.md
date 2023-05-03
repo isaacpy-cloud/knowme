@@ -1,46 +1,51 @@
-![Github stats 1](https://github-readme-stats.vercel.app/api?username=isaacpy&show_icons=true&theme=gradient) 
-![Github stats 2](https://github-readme-stats.vercel.app/api?username=isaacpy&show_icons=true&theme=radical)
+# Hello I'm Ahmet
 
-# Özgeçmiş
+<h1 align="center">Merhaba, Benim Adım [Adınız]</h1>
+<h3 align="center">[Mesleğiniz veya Özgeçmiş Başlığı]</h3>
 
-Bu README dosyası, özgeçmişinizi ve projelerinizle ilgili bilgileri paylaşmanız için bir şablondur.
+<p align="center">
+  <img src="https://example.com/path/to/your/gif/file.gif" alt="Örnek Gif" width="600" height="300">
+</p>
 
 ## Hakkımda
 
-Birkaç cümle ile kendinizi tanıtın.
-
-## Yeteneklerim
-
-- Yetenek 1
-- Yetenek 2
-- Yetenek 3
+Kısaca kendinizi tanıtabileceğiniz bir paragraf yazın.
 
 ## Eğitim
 
 - Lisans: Üniversite Adı, Bölüm, Yıl
 - Yüksek Lisans: Üniversite Adı, Bölüm, Yıl
 
-## Deneyim
+## Yeteneklerim
 
-- Şirket: Pozisyon, Yıl
-- Şirket: Pozisyon, Yıl
+Burada yeteneklerinizi listeleyin. Örneğin:
+
+- Yetenek 1
+- Yetenek 2
+- Yetenek 3
 
 ## Projeler
 
-- Proje 1:
-  - Açıklama:
-  - Kullanılan Teknolojiler:
-  - Github Linki:
+### [Proje 1 Adı](https://github.com/kullanıcı/adı)
 
-- Proje 2:
-  - Açıklama:
-  - Kullanılan Teknolojiler:
-  - Github Linki:
+![Proje 1 Görüntüsü](https://example.com/path/to/project/image.png)
 
-## Sertifikalar
+Açıklama: Proje 1'in kısa bir açıklamasını buraya yazın.
 
-- Sertifika 1: Kuruluş, Yıl
-- Sertifika 2: Kuruluş, Yıl
+### [Proje 2 Adı](https://github.com/kullanıcı/adı)
+
+![Proje 2 Görüntüsü](https://example.com/path/to/project/image.png)
+
+Açıklama: Proje 2'nin kısa bir açıklamasını buraya yazın.
+
+## Hedeflerim
+
+Burada kariyer hedeflerinizi ve neler yapmak istediğinizi açıklayabilirsiniz.
+
+## Web Sitelerim
+
+- [Website 1](https://www.example.com)
+- [Website 2](https://www.example.com)
 
 ## İletişim
 
