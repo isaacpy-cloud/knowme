@@ -1,3 +1,6 @@
+![Github stats 1](https://github-readme-stats.vercel.app/api?username=kullanıcıadınız&show_icons=true&theme=gradient) 
+![Github stats 2](https://github-readme-stats.vercel.app/api?username=kullanıcıadınız&show_icons=true&theme=radical)
+
 # Özgeçmiş
 
 Bu README dosyası, özgeçmişinizi ve projelerinizle ilgili bilgileri paylaşmanız için bir şablondur.
